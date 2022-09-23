@@ -1,0 +1,18 @@
+*{
+    margin:0;
+    box-sizing: border-box;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+header > span{
+    font-weight: bold;
+    font-size: larger;
+}
+
+header{
+    padding: 30px;
+    display: flex;
+    justify-content: space-between;
+    border-bottom: rgba(0, 0, 0, 0.258) solid 0.5;
+    box-shadow: 2px 0 10px rgba(0, 0, 0, 0.371);
+}
